@@ -1,7 +1,7 @@
 # ConsoleUI
 Script for building menus and status indication for own scripts
 
-**Disclamer**: The script works for creating simple menus, forms and you can check status on scriptblocks. There is plenty of room for improvement. Copied a project from 2018. Not being worked on.
+**Disclamer**: The script works for creating simple menus, forms and you can check status on scriptblocks. There is plenty of room for improvement. Copied a project from 2018. **Not being worked on**.
 
 ``` PowerShell
 # Import ConsoleUI (Change path for you needs)
